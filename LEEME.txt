@@ -1,0 +1,12 @@
+TU WEB: https://tocaestrellas.github.io
+
+Si tu usuario de GitHub NO es "tocaestrellas", la dirección cambia.
+En ese caso, en VS Code usa Buscar y reemplazar (Cmd+Shift+H) y cambia
+"tocaestrellas.github.io" por "TUUSUARIO.github.io" (en index.html, robots.txt y sitemap.xml),
+y renombra esta carpeta igual.
+
+PENDIENTE: páginas legales (aviso-legal.html, privacidad.html, cookies.html, condiciones.html).
+
+CAMBIAR LOS MENSAJES DE WHATSAPP
+Están al final de index.html, dentro de <script>. Busca "PRODUCTS" (el texto de cada producto)
+y "var msg" (el mensaje completo). Si cambias de número, busca 34640816626.

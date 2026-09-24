@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tocaestrellas.github.io/sitemap.xml
